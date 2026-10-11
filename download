@@ -1,0 +1,10 @@
+# Local IDE/system files
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+.env.*
+node_modules/
